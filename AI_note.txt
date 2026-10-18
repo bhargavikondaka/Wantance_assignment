@@ -1,0 +1,10 @@
+# AI Use Note
+
+1. I used ChatGPT to help organise my assignment and structure the requirements document, handoff note, and marketing drafts.
+2. I used it to improve clarity, organise the business problems, and present the findings in a professional format.
+3. One limitation I noticed was that AI can suggest generic technology solutions before fully considering the actual business workflow.
+4. For example, AI dashboards and forecasting may sound useful, but Vardhan’s immediate need is reliable order-status visibility.
+5. I kept the Phase 1 scope focused on order tracking, status updates, partial dispatches, and operational reports.
+6. I treated inconsistent order records as items requiring verification rather than assuming that every discrepancy had a known explanation.
+7. I also reviewed the drafts to ensure that they did not introduce unsupported business facts or promises.
+8. The business observations and final decisions should reflect my own visit, review, and judgement.
